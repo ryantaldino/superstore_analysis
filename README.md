@@ -15,8 +15,8 @@ Analyzing Superstore sales data to identify growth opportunities and optimize bu
 - Jupyter Notebook
 
 ## 📈 Key Insights
-1. [Tulis insight 1 di sini]
-2. [Tulis insight 2 di sini] 
-3. [Tulis insight 3 di sini]
+1. [teknlogi 836154.0330]
+2. [Furniture 741999.7953] 
+3. [Office Supplies 719047.0320]
 
 ## 📁 Project Structure
