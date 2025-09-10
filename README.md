@@ -20,8 +20,13 @@ Analyzing Superstore sales data to identify growth opportunities and optimize bu
 3. [Office Supplies 719047.0320]
 
 ## 📁 Project Structure
+`latihan deepseek 1.ipynb`-notebook analysis
+`superstore.csv` -dataset
 
 # Superstore Performance Analysis
+
+## 📊 Project Overview
+Analysis of retail sales data to identify business opportunities across product categories and regions.
 
 ## 📈 Key Findings
 - **Top Category:** Technology generates highest revenue ($1.5M)
