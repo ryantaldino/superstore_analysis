@@ -29,7 +29,19 @@ Analyzing Superstore sales data to identify growth opportunities and optimize bu
 - **Worst Performer:** Tables operating at -15% profit margin
 - **Regional Insight:** West region has highest sales volume
 
-## 💡 Business Recommendations
+## 📊 Key Metrics
+- Total Sales: $2.3M
+- Average Profit Margin: 12.4%
+- Total Orders: 9,994
+
+## 📈 Top Insights
+1. Technology category generates 35% of total revenue
+2. West region has highest sales volume ($725K)
+3. Copiers have highest profit margin at 45%
+
+## 💼 Business Recommendations
 1. Expand Technology product offerings
-2. Review pricing strategy for Tables category
-3. Increase marketing investment in West region
+    we need to expand a technology product because, from my analysis, the most popular product is technology.
+2. Increase marketing focus on West region, 
+    we need to focus sales on west region, because from my analysis sales by region, the higher one is west region
+3. Review pricing strategy for low-margin products
