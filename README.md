@@ -42,6 +42,8 @@ Analyzing Superstore sales data to identify growth opportunities and optimize bu
 ## 💼 Business Recommendations
 1. Expand Technology product offerings
     we need to expand a technology product because, from my analysis, the most popular product is technology.
+    ![alt text](image-1.png)
 2. Increase marketing focus on West region, 
+    ![alt text](image.png)
     we need to focus sales on west region, because from my analysis sales by region, the higher one is west region
 3. Review pricing strategy for low-margin products
